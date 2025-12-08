@@ -1,8 +1,7 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-
 
 public class Thrower : MonoBehaviour
 {
@@ -21,13 +20,23 @@ public class Thrower : MonoBehaviour
     public float throwUpwardForce;
     bool readyToThrow;
 
+    // Tambahan: reference ke PlayerHealth
+    private PlayerHealth playerHealth;
+
     private void Start()
     {
         readyToThrow = true;
+
+        // cari component PlayerHealth di objek player ini
+        playerHealth = GetComponent<PlayerHealth>();
     }
 
     private void Update()
     {
+        // ➤ Cegah tembak kalau player sudah mati
+        if (playerHealth != null && playerHealth.isDead)
+            return;
+
         if (Input.GetKeyDown(throwKey) && readyToThrow && totalThrows > 0)
         {
             Throw();
@@ -37,23 +46,26 @@ public class Thrower : MonoBehaviour
     private void Throw()
     {
         readyToThrow = false;
+
         GameObject projectile = Instantiate(objectToThrow, attackPoint.position, cam.rotation);
+
         projectile.transform.Rotate(90, 0, 0);
+
         Rigidbody projectileRb = projectile.GetComponent<Rigidbody>();
-        
-        Vector3 forceToAdd = cam.transform.forward *  throwForce + transform.up * throwUpwardForce;
+
+        Vector3 forceToAdd =
+            cam.transform.forward * throwForce +
+            transform.up * throwUpwardForce;
 
         projectileRb.AddForce(forceToAdd, ForceMode.Impulse);
-        
+
         totalThrows--;
-        
-        Invoke (nameof(ResetThrow), throwCooldown);
+
+        Invoke(nameof(ResetThrow), throwCooldown);
     }
 
     private void ResetThrow()
     {
         readyToThrow = true;
     }
-
-
 }

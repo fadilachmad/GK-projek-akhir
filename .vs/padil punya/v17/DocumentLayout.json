@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\ManualMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ManualMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Scripts Baru\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Enemy\\EnemyChase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemy\\EnemyChase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\PlayerCam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Scripts Baru\\PlayerCam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\StartMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Scripts Baru\\StartMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\Thrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Scripts Baru\\Thrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\EnemyHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Scripts Baru\\EnemyHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Enemy\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemy\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\ManualMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ManualMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Bullet\\BulletMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Bullet\\BulletMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\HealthbarUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Scripts Baru\\HealthbarUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Scripts Baru\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +63,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scripts Baru\\ScoreManager.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Scripts Baru\\ScoreManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:26:14.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCam.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\PlayerCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scripts Baru\\PlayerCam.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\PlayerCam.cs",
+              "RelativeToolTip": "Assets\\Script\\Scripts Baru\\PlayerCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:22:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartMenuController.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\StartMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scripts Baru\\StartMenuController.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\StartMenuController.cs",
+              "RelativeToolTip": "Assets\\Script\\Scripts Baru\\StartMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:56:57.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyHit.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\EnemyHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scripts Baru\\EnemyHit.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\EnemyHit.cs",
+              "RelativeToolTip": "Assets\\Script\\Scripts Baru\\EnemyHit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:46:13.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scripts Baru\\PlayerHealth.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Script\\Scripts Baru\\PlayerHealth.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:23:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthbarUI.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\HealthbarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scripts Baru\\HealthbarUI.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\HealthbarUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Scripts Baru\\HealthbarUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:13:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thrower.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\Thrower.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scripts Baru\\Thrower.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Scripts Baru\\Thrower.cs",
+              "RelativeToolTip": "Assets\\Script\\Scripts Baru\\Thrower.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:24:13.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BulletMove.cs",
+              "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Bullet\\BulletMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet\\BulletMove.cs",
+              "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Bullet\\BulletMove.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet\\BulletMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:23:40.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ManualMovement.cs",
               "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\ManualMovement.cs",
               "RelativeDocumentMoniker": "Assets\\ManualMovement.cs",
@@ -43,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Player\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerAttack.cs",
@@ -56,27 +192,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EnemyChase.cs",
               "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Enemy\\EnemyChase.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyChase.cs",
               "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Enemy\\EnemyChase.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyChase.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T07:18:56.322Z"
+              "WhenOpened": "2025-12-08T07:18:56.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Enemy\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemySpawner.cs",
               "ToolTip": "C:\\Kuliah\\Kuliah Semester 5\\Grafika Komputer\\padil punya\\Assets\\Script\\Enemy\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\EnemySpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T07:18:30.9Z"
+              "WhenOpened": "2025-12-08T07:18:30.9Z",
+              "EditorCaption": ""
             }
           ]
         }
