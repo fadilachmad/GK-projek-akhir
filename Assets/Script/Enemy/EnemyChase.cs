@@ -57,6 +57,12 @@ public class EnemyChase : MonoBehaviour
 
         isDying = true;
 
+        // Mainkan sound effect serigala mati
+        if (AudioManager.instance != null)
+        {
+            AudioManager.instance.PlayWolfDeathSFX();
+        }
+
         // Tambahkan poin ke pemain
         ScoreManager.instance.AddScore(10);
 
